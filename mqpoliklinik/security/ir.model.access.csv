@@ -1,0 +1,2 @@
+id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
+access_poliklinik_pendaftaran_patient,access.poliklinik.pendaftaran,model_poliklinik_pendaftaran,,1,1,1,1
